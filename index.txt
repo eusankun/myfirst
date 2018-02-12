@@ -7,3 +7,4 @@ pull 추가
 
 브랜치에서 추가
 eusankun씀
+li pull 
